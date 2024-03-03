@@ -1,0 +1,1 @@
+This image recognition tool uses machine learning algorithms to identify objects, faces, and scenes in images, enabling applications such as image classification, object detection, and facial recognition.

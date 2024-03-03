@@ -1,0 +1,26 @@
+{
+"name": "ai56-howered",
+"version": "1.0.0",
+"description": "This image recognition tool uses machine learning algorithms to identify objects, faces, and scenes in images, enabling applications such as image classification, object detection, and facial recognition.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rdsantiagoe9/AI-Powered-Image-Recognition-Tool.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rdsantiagoe9",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
